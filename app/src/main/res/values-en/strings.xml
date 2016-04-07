@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PuertoBerrio</string>
+    <string name="bares">Bars</string>
+    <string name="hotel">Hotels</string>
+    <string name="sitios">Turistics sites</string>
+    <string name="conoceme">about to us</string>
+    <string name="demografia">demography</string>
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="Malecon"> Malecon Hotel</string>
+    <string name="Dos_palmas">two house hotel</string>
+    <string name="Central"> Central Hotel</string>
+     <string name="inf_malecon">Company Information Hostal Malecon: \ n Address: Cr 151-27 \ n City: Puerto Berrio \ n
+   Region: Antioquia \ n Country: Colombia \ n Phone: (4) 833-2343 \ n Rooms from $ 60,000. \ N Single bed, double bed, bath, jacuzzi. \ N
+   Website http://www.pinturasdeoccidente.com</string>
+    <string name="inf_central">CENTRAL HOTEL OF PUERTO BERRIO: \ n Category: establishing Lodging and Accommodation \ n
+Subcategory: Hotel \ n Department: Antioquia \ n City or Town: Puerto Berrio \ n Address: Cra 4 Calle 51 corner \ n
+Telephone: 8332969 \ n E-mail: milebtos@gmail.com \ n Cell: 3104160651 \ n Number of employees: 4 \ n Number of rooms: 26 \ n
+Number of beds: 33</string>
+    <string name="info_2palmas"> two house hotel \n Address: Cr9 Calle 2 \ n City: Puerto Berrio \ n
+   Region: Antioquia \ n Country: Colombia \ n Phone: (4) 833-3339 \ n Website http://www.palimpalem.com/1/hotelasexta/index.html</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="carnaval">Carnaval</string>
+    <string name="jalisco">Jalisco</string>
+    <string name="barra">La Barra</string>
+    <string name="inf_carnaval">DISCOTECA CARNAVAL: \ in Address: Calle 1 Entre Calle 50 Y 51 13 Esquina \ n Puerto Berrio \ n Telephone: 3103585160</string>
+    <string name="inf_jalisco">BAR JALISCO: \n Address: Carrera 1 Calle 09.08 \ n Puerto Berrio \ n 50 \ n Telephone: 3138977906</string>
+    <string name="inf_barra"> DISCOTECA LA BARRA \n ADDRESS: Calle 2 La Barra \ in Puerto Berrio \ n Telephone: 0348332541</string>
+    <string name="title_activity_sitios">Sites</string>
+    <string name="parque">church Nuestra Señora De Los Dolores Central</string>
+    <string name="muelle">muelle Multimodal</string>
+    <string name="puente">Monumental bridge</string>
+    <string name="inf_puente">In 1874, when even the municipality of Puerto Berrio was considered
+          as village "Swirl Great," the engineer Francisco Javier Cisneros, builder
+          Ferrocarril de Antioquia, saw this port as a future railway terminal would
+          direct connection to the city of Medellin. 1956, being the governor of Antioquia Mr.
+          Ignacio Velez Escobar, began the construction of a bridge was given in order to join the network
+          Eastern and Western railway in the country, this would be called "Monumental". </string>
+     <string name="inf_muelle">This type of spring is very suitable as it adapts to the conditions
+          changing the Magdalena River, that is, if we are in rainy season the spring rises
+          according to the amount of water that bring the affluent. and if the low spring summer allowing
+          use throughout the year.</string>
+    <string name="inf_parque">The Church of Our Lady of Sorrows is a Colombian Catholic Church
+         dedicated to the Virgin Mary under the title of Sorrows and belonging to the jurisdiction
+         Church of the Diocese of Barrancabermeja, 1 is, although located in Antioquia,
+         It is part of the Ecclesiastical Province of Bucaramanga. </string>
+    <string name="title_activity_conocenos">about to us</string>
+     <string name="acercamio">William Sánchez Gaviria \n born in the municipality of Puerto Berrio Antioquia \ with NIT: 1214717046-0 \ n At the age of 23 years Cursa semester 9 Electronic Engineering at the University of Antioquia, pursuing the subject Programming mobile devices appreciate your contribution to the application and thanks for making use of it \ n it is clear that any questions, comments, criticism or concern can write to email:. \ nwaugusto.sanchez@udea.edu.co</string>
+    <string name="title_activity_demografia">Demography</string>
+      <string name="demografiaberrio">Total population: 46 883 inhabitants. (2015) \ n Urban Population: 42084 \ n Rural Population: 4,799 \ n
+Literacy: 85.8n (2005) \ n District: 87.3n \ n rural zone: 75.0n \ n Ethnography: \ n According to the figures presented by the DANE of census 2005, the ethnographic composition of the municipality is: \ n
+Mestizos and whites: 86,9n \ n Afrocolombianos: 12,9n \ n Indigenous: 0.2N </string>
+
+</resources>

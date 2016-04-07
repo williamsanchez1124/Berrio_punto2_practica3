@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PuertoBerrio</string>
+    <string name="bares">Bares</string>
+    <string name="hotel">Hoteles</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="conoceme">Conocenos</string>
+    <string name="demografia">Demografia</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="Malecon">Hotel Malecon</string>
+    <string name="Dos_palmas">Hotel La Casa de las dos palmas</string>
+    <string name="Central">Hotel Central</string>
+     <string name="inf_malecon">Información de la Empresa Hostal Malecon:\n Dirección: Cr 151-27 \n Ciudad: Puerto Berrío \n
+  Región: Antioquia \n País: Colombia \n Teléfono: (4) 833-2343 \n Habitaciones desde $60.000. \n Cama sencilla, cama doble, bañera, jacuzzi.\n
+  Página Web http://www.pinturasdeoccidente.com</string>
+    <string name="inf_central">HOTEL CENTRAL DE PUERTO BERRIO: \n Categoría: stablecimiento de Alojamiento y Hospedaje \n
+Subcategoría: Hotel \n Departamento: Antioquia \n Ciudad o Municipio:  Puerto Berrio \n Dirección: Cra 4 Calle 51 esquina \n
+Telefóno: 8332969 \n E-mail:   milebtos@gmail.com \n Celular:3104160651 \n Número de empleados:4 \n Número de habitaciones:   26 \n
+Número de camas: 33</string>
+    <string name="info_2palmas"> Hotel La Casa De Las Dos Palmas \n Dirección: Cr9 Calle 2 \n  Ciudad: Puerto Berrío \n
+  Región: Antioquia \n  País: Colombia \n  Teléfono: (4) 833-3339 \n Página Web http://www.palimpalem.com/1/hotelasexta/index.html</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="carnaval">Carnaval</string>
+    <string name="jalisco">Jalisco</string>
+    <string name="barra">La Barra</string>
+    <string name="inf_carnaval">DISCOTECA CARNAVAL:\n  Dirreción: Crr 1 Entre Calle 50 Y 51 13 Esquina \n Puerto Berrío \n Teléfono: 3103585160</string>
+    <string name="inf_jalisco">BAR JALISCO: \n Dirección: Carrera 1 Calle 9-8 \n Puerto Berrío \n 50\n  Teléfono: 3138977906 </string>
+    <string name="inf_barra"> DISCOTECA LA BARRA \n DIRECCIÓN: Calle 2 La Barra \n Puerto Berrío  \n Teléfono: 0348332541</string>
+    <string name="title_activity_sitios">Sitios</string>
+    <string name="parque">Iglesia Nuestra Señora De Los Dolores Central</string>
+    <string name="muelle">muelle Multimodal</string>
+    <string name="puente">Puente Monumental</string>
+    <string name="inf_puente">En 1874, cuando aún el municipio de Puerto Berrío era considerado
+         como caserío “Remolino Grande”, el ingeniero Francisco Javier Cisneros, constructor del
+         Ferrocarril de Antioquia, vio este puerto como una futura terminal ferroviaria que tendría
+         conexión directa con la ciudad de Medellín. 1956, siendo el gobernador de Antioquia el señor
+         Ignacio Vélez Escobar, se dio inicio a la construcción de un puente con el fin de unir las redes
+         ferroviarias oriental y occidental del país, este llevaría el nombre de “Monumental”. </string>
+     <string name="inf_muelle">Este tipo de muelle es muy adecuado ya que se adapta a las condiciones
+         cambiantes del Río Magdalena, es decir, si estamos en época de lluvias el muelle se eleva de
+         acuerdo a la cantidad de agua que el afluente traiga. y si es verano el muelle baja permitiendo
+         su uso en todo el año.</string>
+    <string name="inf_parque">La Iglesia de Nuestra Señora de los Dolores es una iglesia católica colombiana
+        dedicada a la Virgen María bajo la advocación de los Dolores y perteneciente a la jurisdicción
+        eclesiástica de la Diócesis de Barrancabermeja,1 es decir, que si bien se encuentra en Antioquia,
+        hace parte de la Provincia Eclesiástica de Bucaramanga. </string>
+    <string name="title_activity_conocenos">Conocenos</string>
+     <string name="acercamio">William Sánchez Gaviria \n nacido en el municipio de Puerto Berrio Antioquia \n NIT: 1214717046-0 \n
+    A la edad de sus 23 años Cursa el semestre 9 de ingeniería Electrónica en la universidad de antioquia, cursa la materia de Programación de dispositivos moviles
+    agradecemos su aporte a la aplicación y gracias por hacer uso de ello.\n Cabe aclarar que cualquier duda, comentario, critica o inquietud se puede escribir al correo: \n
+    waugusto.sanchez@udea.edu.co</string>
+    <string name="title_activity_demografia">Demografia</string>
+      <string name="demografiaberrio">Población Total: 46 883 habitantes. (2015)\n Población Urbana: 42.084 \n Población Rural: 4.799 \n
+Alfabetismo: 85.8n (2005) \n Zona urbana: 87.3n \n Zona rural: 75.0n \n Etnografía: \n Según las cifras presentadas por el DANE del censo 2005, la composición etnográfica del municipio es: \n
+Mestizos y blancos: 86,9n \n Afrocolombianos: 12,9n \n Indígena: 0,2n </string>
+
+</resources>
+
